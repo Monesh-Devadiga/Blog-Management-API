@@ -174,7 +174,7 @@ Import the Postman collection from `postman/Blog Management API.postman_collecti
 2. Login (POST /api/auth/login) and copy the token
 3. Create categories (POST /api/categories)
 4. Create blogs (POST /api/blogs) with the token
-5. Test search, filtering, and pagination (GET /api/blogs?search=keyword&page=1&limit=5)
+5. Test search, filtering and pagination (GET /api/blogs?search=keyword&page=1&limit=5)
 6. Update and delete blogs
 
 ## Database Export
