@@ -16,7 +16,7 @@ A RESTful API for managing blog posts with authentication, categories, search, p
 - User authentication (register / login / profile)
 - Blog CRUD (create, read, update, delete)
 - Category management (admin only)
-- Text search across title, content, and tags
+- Text search across title, content and tags
 - Filtering by status, category, author, tag, and date range
 - Pagination with page and limit parameters
 - File/image upload for cover images
