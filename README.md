@@ -1,7 +1,7 @@
 # Blog Management API
 
 A RESTful API for managing blog posts with authentication, categories, search, pagination and file upload support.
-a
+
 ## Tech Stack
 
 - **Runtime:** Node.js
