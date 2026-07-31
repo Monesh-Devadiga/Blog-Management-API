@@ -3,7 +3,7 @@
 A RESTful API for managing blog posts with authentication, categories, search, pagination and file upload support.
  
 ## Tech Stack
-v
+
 - **Runtime:** Node.js
 - **Framework:** Express.js
 - **Database:** MongoDB with Mongoose ODM
