@@ -1,6 +1,6 @@
 # Blog Management API
 
-A RESTful API for managing blog posts with authentication, categories, search, pagination and file upload support.
+A RESTful API for managing blog posts a with authentication, categories, search, pagination and file upload support.
  
 ## Tech Stack
 
