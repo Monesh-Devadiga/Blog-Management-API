@@ -10,7 +10,7 @@ A RESTful API for managing blog posts with authentication, categories, search, p
 - **Authentication:** JWT (JSON Web Tokens)
 - **Validation:** express-validator
 - **File Upload:** Multer
-a
+
 ## Features
 
 - User authentication (register / login / profile)
